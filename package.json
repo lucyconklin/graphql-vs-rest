@@ -1,0 +1,14 @@
+{
+  "name": "graphql-vs-rest",
+  "version": "1.0.0",
+  "description": "graphql vs rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "lucy conklin",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^0.10.5"
+  }
+}

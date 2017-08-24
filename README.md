@@ -103,14 +103,6 @@ You should see a much simpler response like this:
 }
 ```
 
-## But why?
-
-## Let's build a GraphQL API
-
-## Extensions
-
-Connect this app to a database with `knex` and `knex-orm` (or whichever tool you prefer).
-
 ## Resources
 
 * [GraphQl: A data query language](https://code.facebook.com/posts/1691455094417024)

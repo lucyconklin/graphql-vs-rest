@@ -9,6 +9,8 @@
   "author": "lucy conklin",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
     "graphql": "^0.10.5"
   }
 }
